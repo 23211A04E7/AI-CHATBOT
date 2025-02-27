@@ -1,0 +1,19 @@
+# 🤖 AI Chatbot using NLP  
+
+A simple AI-powered chatbot using **Python, NLTK, TF-IDF, and Flask** to generate intelligent text-based responses.
+
+## 🚀 Features
+- Uses **Natural Language Processing (NLP)** for text understanding  
+- Implements **TF-IDF Vectorization & Cosine Similarity** for response selection  
+- Provides a **Flask API** for web-based chatbot interaction  
+- Simple, lightweight, and easy to deploy  
+
+## 🛠️ Tech Stack  
+- **Programming Language**: Python  
+- **Libraries**: NLTK, Scikit-learn, NumPy, Flask  
+
+## 📥 Installation  
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/23211A04E7/AI-CHATBOT.git
+   cd AI-CHATBOT
